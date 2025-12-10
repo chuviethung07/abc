@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - ABC - Trường PTDTBT TH  ĐT: ... </div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - ABC - Trường PTDTBT TH ...  ĐT: ... </div>", unsafe_allow_html=True)
